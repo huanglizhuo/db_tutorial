@@ -8,3 +8,7 @@ Run site locally:
 ```
 bundle exec jekyll serve
 ```
+
+demo
+dev
+hello
